@@ -1,0 +1,12 @@
+{
+  "name": "@icd/release",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "rmn": "turbo rmn && rimraf node_modules"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

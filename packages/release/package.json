@@ -1,12 +1,16 @@
 {
   "name": "@icd/release",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
+    "release": "ts-node scripts/index.ts",
     "rmn": "turbo rmn && rimraf node_modules"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@iicoding/release": "^0.0.11"
+  }
 }

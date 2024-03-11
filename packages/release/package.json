@@ -12,5 +12,9 @@
   "license": "ISC",
   "devDependencies": {
     "@iicoding/release": "^0.0.11"
+  },
+  "dependencies": {
+    "@iicoding/utils": "^0.0.45",
+    "@iicoding/utils-node": "^0.0.3"
   }
 }

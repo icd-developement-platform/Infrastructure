@@ -11,6 +11,8 @@
   "license": "ISC",
   "devDependencies": {
     "rimraf": "^5.0.5",
-    "turbo": "^1.12.5"
+    "ts-node": "^10.9.2",
+    "turbo": "^1.12.5",
+    "typescript": "5.x"
   }
 }
